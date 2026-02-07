@@ -131,7 +131,7 @@ Full team details are included in the attached project report and presentation.
 ## 📎 Documentation
 
 - 📄 [Full Technical Report (PDF)](Strom_data/Storm_Data_Pipeline_Report.pdf)
-- 📊 [Project Presentation (PPTX)](Storm_Data/Storm_Data_Pipeline_Report.pptx)
+- 📊 [Project Presentation (PPTX)](Strom_data/Storm_Data_Pipeline_Report.pptx)
 
 Both documents provide detailed insights into the architecture, ETL implementation, data modeling, and project outcomes.
 
