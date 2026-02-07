@@ -130,8 +130,8 @@ Full team details are included in the attached project report and presentation.
 
 ## 📎 Documentation
 
-- 📄 Full Technical Report (PDF)
-- 📊 Project Presentation (PDF)
+- 📄 [Full Technical Report (PDF)](./Strom%20data/docs/Storm_Data_Pipeline_Report.pdf)
+- 📊 [Project Presentation (PPTX)](./Strom%20data/Presentation_docs/Storm_Data_Pipeline_Report.pptx)
 
 Both documents are available in this repository.
 
