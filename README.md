@@ -1,6 +1,6 @@
 # 🌩 Deadly & Damaging Storm Events Data Pipeline
 
-## 📌 Project Overview
+##  Project Overview
 
 This project involved designing and implementing an end-to-end cloud-based big data pipeline to analyze historical and real-time U.S. storm events.
 
@@ -8,7 +8,7 @@ The objective was to simulate a real-world engagement with a disaster relief org
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 Build a scalable data pipeline capable of:
 
@@ -20,7 +20,7 @@ Build a scalable data pipeline capable of:
 
 ---
 
-## 📊 Data Sources
+##  Data Sources
 
 ### 1️⃣ Historical (Static) Dataset
 - Source: NOAA Storm Events Database
@@ -37,7 +37,7 @@ Build a scalable data pipeline capable of:
 
 ---
 
-## 🏗 Architecture & Workflow
+##  Architecture & Workflow
 
 Data Collection (Python APIs)  
 → Data Cleaning & Transformation (OpenRefine)  
@@ -63,7 +63,7 @@ Data Collection (Python APIs)
 
 ---
 
-## 👩‍💻 My Contributions
+##  My Contributions
 
 - Transferred refined streaming dataset from GCS to HDFS
 - Created structured Hive and Spark tables for distributed analysis
@@ -76,7 +76,7 @@ Data Collection (Python APIs)
 
 ---
 
-## 🔍 Key Analyses Performed
+##  Key Analyses Performed
 
 - Storm event frequency by state and event type
 - Total property and crop damage aggregation
@@ -89,7 +89,7 @@ Data Collection (Python APIs)
 
 ---
 
-## 🤖 Machine Learning (Bonus Work)
+##  Machine Learning (Bonus Work)
 
 Used BigQuery ML to:
 
@@ -99,7 +99,7 @@ Used BigQuery ML to:
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - Texas, Kansas, and Oklahoma identified as highest-risk states
 - Tornadoes and severe thunderstorms caused the highest long-term damage
@@ -109,7 +109,7 @@ Used BigQuery ML to:
 
 ---
 
-## 🚀 Business Impact
+##  Business Impact
 
 This scalable cloud-based pipeline demonstrates how:
 
@@ -120,7 +120,7 @@ This scalable cloud-based pipeline demonstrates how:
 
 ---
 
-## 🤝 Team Collaboration
+##  Team Collaboration
 
 This was a group academic project completed at the University of North Texas for ADTA 5240 – Harvesting, Storing & Retrieving Data.
 
@@ -128,16 +128,16 @@ Full team details are included in the attached project report and presentation.
 
 ---
 
-## 📎 Documentation
+##  Documentation
 
-- 📄 [Full Technical Report (PDF)](Strom_data/Storm_Data_Pipeline_Report.pdf)
-- 📊 [Project Presentation (PPTX)](Strom_data/Storm_Data_Pipeline_Report.pptx)
+-  [Full Technical Report (PDF)](Strom_data/Storm_Data_Pipeline_Report.pdf)
+-  [Project Presentation (PPTX)](Strom_data/Storm_Data_Pipeline_Report.pptx)
 
 Both documents provide detailed insights into the architecture, ETL implementation, data modeling, and project outcomes.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Integrate additional cyclone datasets
 - Develop real-time automated monitoring dashboards
