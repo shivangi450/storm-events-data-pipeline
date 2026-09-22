@@ -1,4 +1,4 @@
-# 🌩 Deadly & Damaging Storm Events Data Pipeline
+#  Deadly & Damaging Storm Events Data Pipeline
 
 ##  Project Overview
 
